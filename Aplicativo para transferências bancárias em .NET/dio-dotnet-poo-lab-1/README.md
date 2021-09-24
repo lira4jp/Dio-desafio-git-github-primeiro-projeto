@@ -2,5 +2,5 @@
 
 ## POO na prática: criando uma aplicação
 
-[Slides](dio-dotnet-poo-lab-1.pdf)
+
 
