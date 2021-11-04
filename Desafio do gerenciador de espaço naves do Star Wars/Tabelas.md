@@ -1,4 +1,4 @@
-# Desafio 1 criar tabelas para o desafio gerenciador de espaço naves do Star Wars. :rocket::rocket::rocket:
+# Criar tabelas para o desafio gerenciador de espaço naves do Star Wars. :rocket::rocket::rocket:
 ```sql
 
 
